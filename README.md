@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused developer working with Node.js and MongoDB, focused on API design, authentication, performance, and maintainable server-side systems. Constantly improving through real-world projects.
+Backend-focused developer building production-grade APIs with Node.js and MongoDB. I care about clean architecture, solid authentication, and systems that are easy to maintain and reason about. Always learning through real projects.
 
 
 ## 🌐 Socials:
